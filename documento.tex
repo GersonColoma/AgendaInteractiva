@@ -1,0 +1,27 @@
+\documentclass[10pt, a4paper]{book}
+\usepackage[utf8]{inputenc}
+\usepackage{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{transparent}
+\usepackage[left=2.54cm, right=2.54cm, top=2.54cm, bottom=2.54cm]{geometry}
+\author{GERSON IVAN COLOMA FIGUEROA.}
+\usepackage{eso-pic}
+\usepackage{lipsum}
+\AddToShipoutPicture{
+\put(0,0){
+\parbox[b][\paperheight]{\paperwidth}{
+\vfill
+\centering
+{\transparent{0.8}\includegraphics[scale=0.5]{Carátula/logoumg.jpg}}
+\vfill
+}
+}
+}
+\title{Agenda estudiantil}
+\begin{document}
+    \include{Carátula/Caratula.tex}
+    \include{CarátulaII/CaratulaII.tex}
+\end{document}
