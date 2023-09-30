@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2023.9.28)  29 SEP 2023 17:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2023.9.28)  29 SEP 2023 19:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -220,10 +220,9 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \l__lipsum_a_int=\count279
 \l__lipsum_b_int=\count280
 
-(/usr/share/texlive/texmf-dist/tex/latecount283
-
 (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
-(./documento.aux (./Carátula/Caratula.aux) (./CarátulaII/CaratulaII.aux))
+(./documento.aux (./Carátula/Caratula.aux) (./CarátulaII/CaratulaII.aux)
+(./Capítulo I/CapituloI.aux) (./Capítulo IV/CapituloIV.aux))
 \openout1 = `documento.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
@@ -241,10 +240,32 @@ LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count281
+\scratchdimen=\dimen163
+\scratchbox=\box54
+\nofMPsegments=\count282
+\nofMParguments=\count283
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count284
+\MPscratchDim=\dimen164
+\MPnumerator=\count285
+\makeMPintoPDFobject=\count286
+\everyMPtoPDFconversion=\toks27
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 *geometry* driver: auto-detecting
-*geometry* detected driver: dvips
+*geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
-* driver: dvips
+* driver: pdftex
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -278,193 +299,125 @@ LaTeX Font Info:    ... okay on input line 24.
 \openout2 = `Carátula/Caratula.aux'.
 
 (./Carátula/Caratula.tex
-! Undefined control sequence.
-<argument> ...re  \vfill \centering {\transparent 
-                                                  {0.8}\includegraphics [sca...
-l.14 \end{titlepage}
-                    
-? q
-OK, entering \batchmode...
-
-! LaTeX Error: Cannot determine size of graphic in Carátula/logoumg.jpg (no Bo
-undingBox).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 \end{titlepage}
-                    
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-File: Carátula/logoumg.jpg Graphic file (type eps)
- <Carátula/logoumg.jpg> [1
+<Carátula/logoumg.jpg, id=1, 759.58781pt x 674.52pt>
+File: Carátula/logoumg.jpg Graphic file (type jpg)
+<use Carátula/logoumg.jpg>
+Package pdftex.def Info: Carátula/logoumg.jpg  used on input line 14.
+(pdftex.def)             Requested size: 379.79297pt x 337.25917pt.
+ [1
 
 
 
-])
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Carátula/logoumg.jpg>])
 \openout2 = `CarátulaII/CaratulaII.aux'.
 
  (./CarátulaII/CaratulaII.tex
-! Undefined control sequence.
-<argument> ...re  \vfill \centering {\transparent 
-                                                  {0.8}\includegraphics [sca...
-l.1 \begin{titlepage}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: Cannot determine size of graphic in Carátula/logoumg.jpg (no Bo
-undingBox).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \begin{titlepage}
-                     
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-File: Carátula/logoumg.jpg Graphic file (type eps)
- <Carátula/logoumg.jpg> [2
+File: Carátula/logoumg.jpg Graphic file (type jpg)
+<use Carátula/logoumg.jpg>
+Package pdftex.def Info: Carátula/logoumg.jpg  used on input line 1.
+(pdftex.def)             Requested size: 379.79297pt x 337.25917pt.
+ [2
 
 
 
 
 ]
-! Undefined control sequence.
-<argument> ...re  \vfill \centering {\transparent 
-                                                  {0.8}\includegraphics [sca...
-l.24 \end{titlepage}
-                    
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+File: Carátula/logoumg.jpg Graphic file (type jpg)
+<use Carátula/logoumg.jpg>
+Package pdftex.def Info: Carátula/logoumg.jpg  used on input line 24.
+(pdftex.def)             Requested size: 379.79297pt x 337.25917pt.
+ [1])
+File: Carátula/logoumg.jpg Graphic file (type jpg)
+<use Carátula/logoumg.jpg>
+Package pdftex.def Info: Carátula/logoumg.jpg  used on input line 27.
+(pdftex.def)             Requested size: 379.79297pt x 337.25917pt.
+ [2
 
 
-! LaTeX Error: Cannot determine size of graphic in Carátula/logoumg.jpg (no Bo
-undingBox).
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.24 \end{titlepage}
-                    
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+]
+(./documento.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
 
-File: Carátula/logoumg.jpg Graphic file (type eps)
- <Carátula/logoumg.jpg> [1])
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write3
+\openout3 = `documento.toc'.
+
+File: Carátula/logoumg.jpg Graphic file (type jpg)
+<use Carátula/logoumg.jpg>
+Package pdftex.def Info: Carátula/logoumg.jpg  used on input line 28.
+(pdftex.def)             Requested size: 379.79297pt x 337.25917pt.
+ [3]
 \openout2 = `"Capítulo I/CapituloI.aux"'.
 
- (./Capítulo I/CapituloI.tex
-! Undefined control sequence.
-<argument> ...re  \vfill \centering {\transparent 
-                                                  {0.8}\includegraphics [sca...
-l.1 \chapter
-            *{Capítulo I - Anteproyecto de Investigación}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+
+(./Capítulo I/CapituloI.tex
+File: Carátula/logoumg.jpg Graphic file (type jpg)
+<use Carátula/logoumg.jpg>
+Package pdftex.def Info: Carátula/logoumg.jpg  used on input line 1.
+(pdftex.def)             Requested size: 379.79297pt x 337.25917pt.
+ [4
 
 
-! LaTeX Error: Cannot determine size of graphic in Carátula/logoumg.jpg (no Bo
-undingBox).
+] (./Capítulo I/Secciones/Antecedentes.tex)
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \chapter
-            *{Capítulo I - Anteproyecto de Investigación}
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+Package lipsum Warning: Unknown language 'latin'. Hyphenation patterns for
+(lipsum)                'nil' will be used instead.
 
-File: Carátula/logoumg.jpg Graphic file (type eps)
- <Carátula/logoumg.jpg> [2
+(./Capítulo I/Secciones/Justificacion.tex))
+File: Carátula/logoumg.jpg Graphic file (type jpg)
+<use Carátula/logoumg.jpg>
+Package pdftex.def Info: Carátula/logoumg.jpg  used on input line 28.
+(pdftex.def)             Requested size: 379.79297pt x 337.25917pt.
+ [5]
+\openout2 = `"Capítulo IV/CapituloIV.aux"'.
+
+ (./Capítulo IV/CapituloIV.tex
+File: Carátula/logoumg.jpg Graphic file (type jpg)
+<use Carátula/logoumg.jpg>
+Package pdftex.def Info: Carátula/logoumg.jpg  used on input line 1.
+(pdftex.def)             Requested size: 379.79297pt x 337.25917pt.
+[6
 
 
 
 
 ])
-! Undefined control sequence.
-<argument> ...re  \vfill \centering {\transparent 
-                                                  {0.8}\includegraphics [sca...
-l.27     \include{Capítulo I/CapituloI}
-                                        
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: Cannot determine size of graphic in Carátula/logoumg.jpg (no Bo
-undingBox).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.27     \include{Capítulo I/CapituloI}
-                                        
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-File: Carátula/logoumg.jpg Graphic file (type eps)
- <Carátula/logoumg.jpg> [3] (./documento.aux (./Carátula/Caratula.aux
-! Extra }, or forgotten \endgroup.
-l.22 }
-      {0}
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Extra }, or forgotten \endgroup.
-l.25 }
-      
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-) (./CarátulaII/CaratulaII.aux) (./Capítulo I/CapituloI.aux)
-! Extra }, or forgotten \endgroup.
-l.9 CapituloI.aux}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-)
+File: Carátula/logoumg.jpg Graphic file (type jpg)
+<use Carátula/logoumg.jpg>
+Package pdftex.def Info: Carátula/logoumg.jpg  used on input line 29.
+(pdftex.def)             Requested size: 379.79297pt x 337.25917pt.
+ [7] (./documento.aux (./Carátula/Caratula.aux)
+(./CarátulaII/CaratulaII.aux) (./Capítulo I/CapituloI.aux)
+(./Capítulo IV/CapituloIV.aux))
  ***********
 LaTeX2e <2023-06-01>
 L3 programming layer <2023-06-05>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4833 strings out of 477696
- 79087 string characters out of 5831674
- 1854756 words of memory out of 5000000
- 25277 multiletter control sequences out of 15000+600000
- 515292 words of font info for 40 fonts, out of 8000000 for 9000
+ 5375 strings out of 477695
+ 88016 string characters out of 5831648
+ 1856759 words of memory out of 5000000
+ 25771 multiletter control sequences out of 15000+600000
+ 517596 words of font info for 50 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 79i,10n,93p,1390b,346s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,13n,93p,234b,289s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/gerson/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcbx1440.60
+0pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb>
+Output written on documento.pdf (9 pages, 315928 bytes).
+PDF statistics:
+ 60 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on documento.dvi (5 pages, 3192 bytes).

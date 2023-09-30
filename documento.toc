@@ -1,0 +1,4 @@
+\babel@toc {nil}{}\relax 
+\contentsline {section}{\numberline {0.1}Marco Conceptual}{5}{}%
+\contentsline {subsection}{\numberline {0.1.1}Antecedentes}{5}{}%
+\contentsline {subsection}{\numberline {0.1.2}Justificación}{5}{}%
