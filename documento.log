@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2023.9.28)  29 SEP 2023 19:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2023.9.28)  17 OCT 2023 17:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2023-06-01>
 L3 programming layer <2023-06-05>
 (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
-File: bk10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@chapter=\count186
@@ -179,6 +179,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen160
 \Gm@dimlist=\toks25
 )
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
 (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
 \ESO@tempdima=\dimen161
@@ -222,23 +225,24 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 
 (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
 (./documento.aux (./Carátula/Caratula.aux) (./CarátulaII/CaratulaII.aux)
-(./Capítulo I/CapituloI.aux) (./Capítulo IV/CapituloIV.aux))
+(./Capítulo I/Capitulo.aux) (./Capítulo II/Capitulo2.aux)
+(./Capítulo III/Capitulo3.aux) (./Capítulo IV/Capitulo4.aux))
 \openout1 = `documento.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -266,27 +270,27 @@ e
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: a4paper
+* paper: letterpaper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(72.2698pt, 452.96826pt, 72.2698pt)
-* v-part:(T,H,B)=(72.2698pt, 700.50723pt, 72.2698pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=452.96826pt
-* \textheight=700.50723pt
+* h-part:(L,W,R)=(72.2698pt, 469.75539pt, 72.2698pt)
+* v-part:(T,H,B)=(72.2698pt, 650.43037pt, 72.2698pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75539pt
+* \textheight=650.43037pt
 * \oddsidemargin=-0.00018pt
 * \evensidemargin=-0.00018pt
-* \topmargin=-30.06767pt
+* \topmargin=-31.87398pt
 * \headheight=12.0pt
-* \headsep=18.06749pt
-* \topskip=10.0pt
-* \footskip=25.29494pt
-* \marginparwidth=115.0pt
+* \headsep=19.8738pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=116.0pt
 * \marginparsep=7.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -299,125 +303,209 @@ e
 \openout2 = `Carátula/Caratula.aux'.
 
 (./Carátula/Caratula.tex
-<Carátula/logoumg.jpg, id=1, 759.58781pt x 674.52pt>
-File: Carátula/logoumg.jpg Graphic file (type jpg)
-<use Carátula/logoumg.jpg>
-Package pdftex.def Info: Carátula/logoumg.jpg  used on input line 14.
-(pdftex.def)             Requested size: 379.79297pt x 337.25917pt.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [1
 
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Carátula/logoumg.jpg>])
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2])
 \openout2 = `CarátulaII/CaratulaII.aux'.
 
  (./CarátulaII/CaratulaII.tex
-File: Carátula/logoumg.jpg Graphic file (type jpg)
-<use Carátula/logoumg.jpg>
-Package pdftex.def Info: Carátula/logoumg.jpg  used on input line 1.
-(pdftex.def)             Requested size: 379.79297pt x 337.25917pt.
- [2
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
 
 
 
 
 ]
-File: Carátula/logoumg.jpg Graphic file (type jpg)
-<use Carátula/logoumg.jpg>
-Package pdftex.def Info: Carátula/logoumg.jpg  used on input line 24.
-(pdftex.def)             Requested size: 379.79297pt x 337.25917pt.
- [1])
-File: Carátula/logoumg.jpg Graphic file (type jpg)
-<use Carátula/logoumg.jpg>
-Package pdftex.def Info: Carátula/logoumg.jpg  used on input line 27.
-(pdftex.def)             Requested size: 379.79297pt x 337.25917pt.
- [2
-
-
-
-]
-(./documento.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
+[2]) (./documento.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
-\tf@toc=\write3
-\openout3 = `documento.toc'.
-
-File: Carátula/logoumg.jpg Graphic file (type jpg)
-<use Carátula/logoumg.jpg>
-Package pdftex.def Info: Carátula/logoumg.jpg  used on input line 28.
-(pdftex.def)             Requested size: 379.79297pt x 337.25917pt.
- [3]
-\openout2 = `"Capítulo I/CapituloI.aux"'.
-
-
-(./Capítulo I/CapituloI.tex
-File: Carátula/logoumg.jpg Graphic file (type jpg)
-<use Carátula/logoumg.jpg>
-Package pdftex.def Info: Carátula/logoumg.jpg  used on input line 1.
-(pdftex.def)             Requested size: 379.79297pt x 337.25917pt.
- [4
-
-
-] (./Capítulo I/Secciones/Antecedentes.tex)
-
-Package lipsum Warning: Unknown language 'latin'. Hyphenation patterns for
-(lipsum)                'nil' will be used instead.
-
-(./Capítulo I/Secciones/Justificacion.tex))
-File: Carátula/logoumg.jpg Graphic file (type jpg)
-<use Carátula/logoumg.jpg>
-Package pdftex.def Info: Carátula/logoumg.jpg  used on input line 28.
-(pdftex.def)             Requested size: 379.79297pt x 337.25917pt.
- [5]
-\openout2 = `"Capítulo IV/CapituloIV.aux"'.
-
- (./Capítulo IV/CapituloIV.tex
-File: Carátula/logoumg.jpg Graphic file (type jpg)
-<use Carátula/logoumg.jpg>
-Package pdftex.def Info: Carátula/logoumg.jpg  used on input line 1.
-(pdftex.def)             Requested size: 379.79297pt x 337.25917pt.
-[6
-
+) [3
 
 
 
 ])
-File: Carátula/logoumg.jpg Graphic file (type jpg)
-<use Carátula/logoumg.jpg>
-Package pdftex.def Info: Carátula/logoumg.jpg  used on input line 29.
-(pdftex.def)             Requested size: 379.79297pt x 337.25917pt.
- [7] (./documento.aux (./Carátula/Caratula.aux)
-(./CarátulaII/CaratulaII.aux) (./Capítulo I/CapituloI.aux)
-(./Capítulo IV/CapituloIV.aux))
+\tf@toc=\write3
+\openout3 = `documento.toc'.
+
+ [4]
+\openout2 = `"Capítulo I/Capitulo.aux"'.
+
+
+(./Capítulo I/Capitulo.tex
+Chapter 1.
+(./Capítulo I/Secciones/Antecedentes.tex
+Overfull \hbox (3.64609pt too wide) in paragraph at lines 3--11
+ \OT1/cmr/m/n/10.95 La educaci^^Son en l^^S^^Pnea y las tecnolog^^S^^Pas de la 
+informaci^^Son pueden proporcionar flexibilidad
+ []
+
+) (./Capítulo I/Secciones/Justificacion.tex [5
+
+
+] [6]
+Overfull \hbox (2.70732pt too wide) in paragraph at lines 54--67
+[]\OT1/cmr/m/n/10.95 Una agenda interactiva, tanto para maestros, as^^S^^P como
+ para los padres e hijos que proporcione
+ []
+
+) (./Capítulo I/Secciones/Planteamiento_del_problema.tex
+Overfull \hbox (37.68642pt too wide) in paragraph at lines 68--1
+\OT1/cmr/m/n/10.95 atender las necesidades que pueda tener el estudiante, no so
+lo materialmente, sino tambi^^Sen psicol^^Sogicamente,
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+Underfull \vbox (badness 1688) has occurred while \output is active []
+
+ [8])
+(./Capítulo I/Secciones/Preguntas_de_investigacion.tex)
+(./Capítulo I/Secciones/Objetivos.tex [9])
+(./Capítulo I/Secciones/De_mercado.tex
+Overfull \hbox (7.03917pt too wide) in paragraph at lines 4--5
+ \OT1/cmr/m/n/10.95 La implementaci^^Son de sistemas automatizados, de interacc
+i^^Son o de control; con las facilidades
+ []
+
+) (./Capítulo I/Secciones/Alcance.tex
+Overfull \hbox (10.00984pt too wide) in paragraph at lines 8--1
+ \OT1/cmr/m/n/10.95 El colegio manifiesta la necesidad de mantener y mantenerse
+ informado de los acontecimientos
+ []
+
+[10]
+Overfull \hbox (4.09624pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10.95 espec^^S^^Pficas para distintos tipos de datos. Los lenguaje
+s a utilizar principalmente ser^^San JAVASCRIPT,
+ []
+
+) (./Capítulo I/Secciones/Hipotesis_y_Variables.tex [11])
+(./Capítulo I/Secciones/Indicadores_y_Supuestos.tex [12]
+Overfull \hbox (33.12396pt too wide) in paragraph at lines 13--15
+[]\OT1/cmr/m/n/10.95 Un estudio de McWayne, Hampton, Fantuzzo, Cohen y Sekino (
+2004) encontr^^So que el involucramiento
+ []
+
+
+Overfull \hbox (11.79178pt too wide) in paragraph at lines 13--15
+\OT1/cmr/m/n/10.95 ni~nos, incluyendo habilidades sociales, autocontrol y compo
+rtamiento prosocial. La participaci^^Son
+ []
+
+
+Overfull \hbox (24.33357pt too wide) in paragraph at lines 13--15
+\OT1/cmr/m/n/10.95 activa de la familia en la educaci^^Son de los ni~nos tambi^
+^Sen puede mejorar su desarrollo socioemocional. 
+ []
+
+) (./Capítulo I/Secciones/Herramientas_de_investigacion.tex
+Overfull \hbox (2.12938pt too wide) in paragraph at lines 3--4
+ \OT1/cmr/m/n/10.95 Con esta metodolog^^R^^Pa se identificar^^Ran los actores d
+eficientes durante el proceso de notificaci^^Ron
+ []
+
+
+Overfull \hbox (1.21687pt too wide) in paragraph at lines 5--6
+ \OT1/cmr/m/n/10.95 Se eligi^^Ro una aplicaci^^Ron web progresiva para poder mi
+nimizar las deficiencias que se presentan
+ []
+
+[13]) (./Capítulo I/Secciones/Planificacion.tex
+<Capítulo I/imagenes/Planificacion.png, id=57, 1273.75874pt x 1920.17375pt>
+File: Capítulo I/imagenes/Planificacion.png Graphic file (type png)
+<use Capítulo I/imagenes/Planificacion.png>
+Package pdftex.def Info: Capítulo I/imagenes/Planificacion.png  used on input 
+line 6.
+(pdftex.def)             Requested size: 469.74792pt x 650.4186pt.
+) [14] [15 <./Capítulo I/imagenes/Planificacion.png>] (./Capítulo I/Secciones
+/Conceptos_generales.tex
+Overfull \hbox (28.86566pt too wide) in paragraph at lines 3--6
+ \OT1/cmr/m/n/10.95 El concepto de desarrollo se refiere al proceso de creaci^^
+Son, dise~no, implementaci^^Son y mantenimiento
+ []
+
+
+Overfull \hbox (4.04555pt too wide) in paragraph at lines 3--6
+\OT1/cmr/m/n/10.95 objetivo principal del desarrollo es crear soluciones eficie
+ntes y efectivas que satisfagan las necesidades
+ []
+
+))
+Overfull \hbox (3.00133pt too wide) in paragraph at lines 11--21
+\OT1/cmr/m/n/10.95 permite a los usuarios crear y editar eventos, compartir cal
+endarios y recibir recordatorios.  Microsoft
+ []
+
+[16] [17]
+\openout2 = `"Capítulo II/Capitulo2.aux"'.
+
+ (./Capítulo II/Capitulo2.tex [18
+
+
+
+
+]
+Chapter 2.
+) [19]
+\openout2 = `"Capítulo III/Capitulo3.aux"'.
+
+ (./Capítulo III/Capitulo3.tex [20
+
+
+
+
+]
+Chapter 3.
+) [21]
+\openout2 = `"Capítulo IV/Capitulo4.aux"'.
+
+ (./Capítulo IV/Capitulo4.tex [22
+
+
+
+
+]
+Chapter 4.
+) [23] (./documento.aux (./Carátula/Caratula.aux)
+(./CarátulaII/CaratulaII.aux) (./Capítulo I/Capitulo.aux)
+(./Capítulo II/Capitulo2.aux) (./Capítulo III/Capitulo3.aux)
+(./Capítulo IV/Capitulo4.aux))
  ***********
 LaTeX2e <2023-06-01>
 L3 programming layer <2023-06-05>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5375 strings out of 477695
- 88016 string characters out of 5831648
- 1856759 words of memory out of 5000000
- 25771 multiletter control sequences out of 15000+600000
- 517596 words of font info for 50 fonts, out of 8000000 for 9000
+ 5565 strings out of 477695
+ 94026 string characters out of 5831648
+ 1864759 words of memory out of 5000000
+ 25904 multiletter control sequences out of 15000+600000
+ 521800 words of font info for 64 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 79i,13n,93p,234b,289s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/gerson/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcbx1440.60
-0pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb>
-Output written on documento.pdf (9 pages, 315928 bytes).
+ 79i,6n,93p,870b,254s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/gerson/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.60
+0pk> </home/gerson/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcbx1440.
+600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb>
+Output written on documento.pdf (25 pages, 403875 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
- 38 compressed objects within 1 object stream
+ 122 PDF objects out of 1000 (max. 8388607)
+ 80 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,4 +1,39 @@
 \babel@toc {nil}{}\relax 
-\contentsline {section}{\numberline {0.1}Marco Conceptual}{5}{}%
-\contentsline {subsection}{\numberline {0.1.1}Antecedentes}{5}{}%
-\contentsline {subsection}{\numberline {0.1.2}Justificación}{5}{}%
+\contentsline {chapter}{\numberline {1}Anteproyecto de Investigación}{5}{}%
+\contentsline {section}{\numberline {1.1}Antecedentes}{5}{}%
+\contentsline {section}{\numberline {1.2}Justificación}{6}{}%
+\contentsline {section}{\numberline {1.3}Planteamiento del Problema}{8}{}%
+\contentsline {section}{\numberline {1.4}Preguntas de investigación}{9}{}%
+\contentsline {section}{\numberline {1.5}Objetivos}{9}{}%
+\contentsline {subsection}{\numberline {1.5.1}Objetivo General}{9}{}%
+\contentsline {subsection}{\numberline {1.5.2}Objetivos Específicos}{10}{}%
+\contentsline {section}{\numberline {1.6}De Mercado}{10}{}%
+\contentsline {subsection}{\numberline {1.6.1}Tecnológico}{10}{}%
+\contentsline {subsection}{\numberline {1.6.2}Soporte}{10}{}%
+\contentsline {subsection}{\numberline {1.6.3}Empresariales}{10}{}%
+\contentsline {section}{\numberline {1.7}Alcance}{11}{}%
+\contentsline {subsection}{\numberline {1.7.1}Geográfico}{11}{}%
+\contentsline {subsection}{\numberline {1.7.2}Tecnológicos}{11}{}%
+\contentsline {subsection}{\numberline {1.7.3}Personales}{11}{}%
+\contentsline {subsection}{\numberline {1.7.4}Temporal}{11}{}%
+\contentsline {subsection}{\numberline {1.7.5}Temático}{11}{}%
+\contentsline {section}{\numberline {1.8}Hipótesis}{12}{}%
+\contentsline {section}{\numberline {1.9}Variables}{12}{}%
+\contentsline {subsection}{\numberline {1.9.1}Independientes}{12}{}%
+\contentsline {subsection}{\numberline {1.9.2}Dependientes}{12}{}%
+\contentsline {section}{\numberline {1.10}Indicadores}{12}{}%
+\contentsline {section}{\numberline {1.11}Supuestos}{13}{}%
+\contentsline {section}{\numberline {1.12}Herramientas de Investigación}{13}{}%
+\contentsline {subsection}{\numberline {1.12.1}Descriptiva}{13}{}%
+\contentsline {subsection}{\numberline {1.12.2}Exploratoria}{13}{}%
+\contentsline {subsection}{\numberline {1.12.3}Técnicas}{14}{}%
+\contentsline {subsection}{\numberline {1.12.4}Instrumentos}{14}{}%
+\contentsline {section}{\numberline {1.13}Planificación}{14}{}%
+\contentsline {section}{\numberline {1.14}Conceptos Generales}{16}{}%
+\contentsline {subsection}{\numberline {1.14.1}Desarrollo}{16}{}%
+\contentsline {subsection}{\numberline {1.14.2}Desarrollo de Aplicaciones}{16}{}%
+\contentsline {subsection}{\numberline {1.14.3}Agendas Digitales}{16}{}%
+\contentsline {subsubsection}{¿Qué son las agendas digitales?}{16}{}%
+\contentsline {chapter}{\numberline {2}Primer Teórico}{19}{}%
+\contentsline {chapter}{\numberline {3}Segundo Teórico}{21}{}%
+\contentsline {chapter}{\numberline {4}Primer Práctico}{23}{}%
